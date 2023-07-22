@@ -1,7 +1,9 @@
 # Geolocator-using-django
 
 ***IP-based geolocation***
+
 ***GeoIP object requires the GeoIP C library and either the GeoIP Country or City datasets in binary format (the CSV files will not work!).***
+
 ***These datasets may be downloaded from MaxMind. Grab the GeoLiteCountry/GeoIP.***
 
 **Reference Video**
